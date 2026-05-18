@@ -1,2 +1,0 @@
-Update.bin filter=lfs diff=lfs merge=lfs -text
-Update_EX.bin filter=lfs diff=lfs merge=lfs -text
