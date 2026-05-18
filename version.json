@@ -1,7 +1,7 @@
 {
-  "Version_esp": "1.0.1",
-  "Version_exe": "1.2.0.0",
-  "Description": "تحديث جديد لتحسين استقرار الإضاءة",
-  "DownloadURL_esp": "https://github.com/pssmarta1-eng/PS_Smart/raw/main/Update_ES.bin",
-  "DownloadURL_exe": "https://github.com/pssmarta1-eng/PS_Smart/raw/main/Update_EXE.bin"
+  "Version_es": "1.0.1.0",
+  "Version_ex": "1.2.0.0",
+  "DownloadURL_es": "https://github.com/pssmarta1-eng/PS_Smart/raw/main/Update_ES.bin",
+  "DownloadURL_ex": "https://github.com/pssmarta1-eng/PS_Smart/raw/main/Update_EXE.bin",
+  "Description": "تحديث جديد لتحسين استقرار الإضاءة"
 }
