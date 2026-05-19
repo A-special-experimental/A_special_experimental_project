@@ -1,5 +1,5 @@
-# PS_Smart
-PS Smart Firmware Updates
+# A special experimental project
+Firmware Updates test
 Tag version: v1.0.1
 Release title: Version 1.0.1
 Description:
